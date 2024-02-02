@@ -1,0 +1,15 @@
+{
+  "name": "coding-assessment-l2-boilerplate-code",
+  "version": "1.0.0",
+  "description": "Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "kcr",
+  "license": "ISC"
+}
