@@ -32,7 +32,7 @@ Take a moment to review the project structure:
 ## Test Locally
 
 4. **Server Setup:**
-- go to the terminal and run "npm install" command
+- go to root directory of the project in terminal and run "npm install" command
 - Now you can see url link in your terminal click that and see the magic
 
 
